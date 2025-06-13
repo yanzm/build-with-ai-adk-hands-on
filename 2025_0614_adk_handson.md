@@ -629,6 +629,8 @@ https://google.github.io/adk-docs/tools/mcp-tools/#step-1-get-api-key-and-enable
 
 をやってみましょう。
 
+Google Map の Api key は https://developers.google.com/maps/documentation/javascript/get-api-key?hl=ja#create-api-keys から生成できます。
+
 ```python
 from google.adk.agents import Agent
 from google.adk.tools.mcp_tool.mcp_toolset import MCPToolset, StdioServerParameters
