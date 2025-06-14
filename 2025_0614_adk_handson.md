@@ -669,5 +669,5 @@ root_agent = Agent(
 
 ## 参考資料・コンテンツ
 
-- https://google.github.io/adk-docs/tutorials/agent-team/#step-3-building-an-agent-team-delegation-for-greetings-farewells にチュートリアルがあります。かなり盛りだくさんな内容なので最後までやりきるとさまざまな機能について一通りのことを学ぶことができます。
+- https://google.github.io/adk-docs/tutorials/ にチュートリアルがあります。かなり盛りだくさんな内容なので最後までやりきるとさまざまな機能について一通りのことを学ぶことができます。
 - https://github.com/google/adk-samples にさまざまな ADK のサンプルがあります。
