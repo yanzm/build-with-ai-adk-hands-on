@@ -123,7 +123,7 @@ adk_handson/
 ```
 adk_handson/
     my_agent/
-        __init.py__
+        __init__.py
         agent.py
 ```
 
@@ -190,7 +190,7 @@ Google AI Sudio (https://aistudio.google.com/apikey) で API key を取得しま
 ```
 adk_handson/
     my_agent/
-        __init.py__
+        __init__.py
         agent.py
         .env <-- これを作成
 ```
@@ -210,7 +210,7 @@ GOOGLE_API_KEY=取得したAPIキー
 ```
 adk_handson/ <-- ここに移動
     my_agent/
-        __init.py__
+        __init__.py
         agent.py
         .env
 ```
