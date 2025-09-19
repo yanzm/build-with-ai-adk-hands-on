@@ -1,1 +1,1 @@
-# build-with-ai-adk-hands-on
+# ADK hands-on
