@@ -8,6 +8,8 @@
 
 生成AIモデルの機能を拡張したプログラムで、あるゴールを達成するために自律的に環境を認識し、推論し、行動することができます。人間の介入なしに自律的に動くというのがポイントです。
 
+おすすめ本: LLMのプロンプトエンジニアリング ( https://www.oreilly.co.jp/books/9784814401130/ )
+
 ## Agent Development Kit 
 
 ADK 公式ドキュメント : https://google.github.io/adk-docs/
