@@ -253,7 +253,6 @@ INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
 
 チャットしてみましょう。
 
-<span style="color:salmon"><b>日本語変換中のEnterで送信されてしまうので、別のところで文章を作ってからコピペしてください。</b></span>
 
 ![adk web2](images/adk_web2.png)
 
