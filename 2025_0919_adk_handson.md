@@ -190,6 +190,8 @@ root_agent = LlmAgent(
 
 Google AI Sudio (https://aistudio.google.com/apikey) で API key を取得します
 
+Gemini の無料枠については https://ai.google.dev/gemini-api/docs/rate-limits?hl=ja#free-tier に記載があります。
+
 ![api key](images/api_key.png)
 
 `my_agent` フォルダに `.env` ファイルを作成します。
